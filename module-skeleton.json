@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-stripe-filament",
+  "capabilityKey": "liberusoftware/billing-stripe",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/billing-stripe-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/billing/nextjs/module-billing-stripe.md",
+  "presentationPlan": "projects/billing/filament/module-billing-stripe.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
